@@ -1,0 +1,14 @@
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\bin\Debug\net8.0\tamrin7.exe
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\bin\Debug\net8.0\tamrin7.deps.json
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\bin\Debug\net8.0\tamrin7.runtimeconfig.json
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\bin\Debug\net8.0\tamrin7.dll
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\bin\Debug\net8.0\tamrin7.pdb
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\obj\Debug\net8.0\tamrin7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\obj\Debug\net8.0\tamrin7.AssemblyInfoInputs.cache
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\obj\Debug\net8.0\tamrin7.AssemblyInfo.cs
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\obj\Debug\net8.0\tamrin7.csproj.CoreCompileInputs.cache
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\obj\Debug\net8.0\tamrin7.dll
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\obj\Debug\net8.0\refint\tamrin7.dll
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\obj\Debug\net8.0\tamrin7.pdb
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\obj\Debug\net8.0\tamrin7.genruntimeconfig.cache
+C:\Users\sana center\Desktop\salar\tamrin7\tamrin7\obj\Debug\net8.0\ref\tamrin7.dll
